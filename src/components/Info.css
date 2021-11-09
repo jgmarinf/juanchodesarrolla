@@ -1,0 +1,20 @@
+.info {
+    background-color: rgba(0, 0, 0, 0.9) ;
+    height: 300px;
+    width: 100%;
+    color: seashell;
+}  
+.text-center {
+
+}
+
+.parrafo {
+    font-size: 30px;
+    padding: 1rem;
+}
+
+a .fab {
+    color: rgb(255, 255, 255) ;
+    font-size: 50px;
+    padding: 2rem 2rem;
+}

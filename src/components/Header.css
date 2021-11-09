@@ -1,0 +1,45 @@
+/* .Header {
+    height: 400px;
+    background-image: url("https://images.freeimages.com/images/large-previews/01a/technology-background-1632715.jpg");
+
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+} */
+
+.Header {
+    background: black;
+    height: 300px;
+    display: flex;
+    width: 100%;
+    
+}
+
+.row {
+    width: 100%;
+    
+}
+
+.text {
+    
+    padding: 1rem;
+    color: rgb(255, 255, 255);
+    font-family: 'Red Hat Mono', monospace;
+    letter-spacing: 0px;
+}
+
+.col-sm-6 {
+    display: flex;
+    
+}
+/* margin es para dar espacios horizontales entre items */
+.list-unstyled {
+    margin: 0 10px;
+    
+}
+i.fab {
+    font-size: 300px;
+    color: white;
+    
+}
